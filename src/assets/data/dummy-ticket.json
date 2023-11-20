@@ -2,17 +2,71 @@
     {
         "id":1,
         "status":"client data pending",
-        "addedAt":2020
+        "addedAt":2020,
+        "subject":"dont know",
+        "history":[
+            {
+                "date":"232322",
+                "message":"adfa",
+                "sender":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "sender":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "sender":"adfasdf"
+            }
+        ]
     },
     {
         "id":2,
         "status":"client data pending",
-        "addedAt":2020
+        "addedAt":2020,
+        "subject":"dont know",
+        "history":[
+            {
+                "date":"232322",
+                "message":"adfa",
+                "sender":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "messageby":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "messageby":"adfasdf"
+            }
+        ]
     },
     {
         "id":3,
         "status":"client data pending",
-        "addedAt":2020
+        "addedAt":2020,
+        "subject":"dont know",
+        "history":[
+            {
+                "date":"232322",
+                "message":"adfa",
+                "messageby":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "messageby":"adfasdf"
+            },
+            {
+                "date":"232322",
+                "message":"adfa",
+                "messageby":"adfasdf"
+            }
+        ]
     },
     {
         "id":4,
